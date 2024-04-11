@@ -1,0 +1,29 @@
+.position {
+	position:relative;
+	
+}
+#header-menu {
+	margin:auto;
+	padding:10px;
+	text-decoration:none;
+	font-size:30px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+#header-menu1 {
+padding:1px 1px 1px 1px;
+	margin-left:1em;
+	text-decoration:none;
+	font-size:30px;
+	font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+#header-menu2 {
+		margin:auto;
+	margin-left:1em;
+
+	text-decoration:none;
+	font-size:30px;
+	font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
